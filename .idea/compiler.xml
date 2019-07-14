@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Gradle-builds-Java-projects-2019-7-12-8-47-48-372_main" target="1.8" />
+      <module name="Gradle-builds-Java-projects-2019-7-12-8-47-48-372_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

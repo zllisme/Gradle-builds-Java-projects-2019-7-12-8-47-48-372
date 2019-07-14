@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Gradle-builds-Java-projects-2019-7-12-8-47-48-372.iml" filepath="$PROJECT_DIR$/Gradle-builds-Java-projects-2019-7-12-8-47-48-372.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle-builds-Java-projects-2019-7-12-8-47-48-372_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle-builds-Java-projects-2019-7-12-8-47-48-372_main.iml" group="Gradle-builds-Java-projects-2019-7-12-8-47-48-372" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Gradle-builds-Java-projects-2019-7-12-8-47-48-372_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Gradle-builds-Java-projects-2019-7-12-8-47-48-372_test.iml" group="Gradle-builds-Java-projects-2019-7-12-8-47-48-372" />
+    </modules>
+  </component>
+</project>
